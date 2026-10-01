@@ -1,0 +1,3 @@
+interface:
+  display_name: "需求挖掘机"
+  short_description: "从公开讨论中的真实行为证据，挖掘、验证并排序值得研究的产品需求"
